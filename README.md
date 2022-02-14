@@ -12,7 +12,7 @@ Results:
 
 The web page loads with all the data displayed, users can filter through the data by inputing information into the filter fields, once the user presses enter/return or clicks on the page it will return results that were queried. Placeholders have been provided so that users have an example on how to enter information on the filter fields correctly.
 
-![image](https://user-images.githubusercontent.com/93900628/153801548-3d0f8c89-f08e-4aad-b240-03a9cc7eb32b.png)
+![Screen Shot 2022-02-13 at 11 28 33 PM](https://user-images.githubusercontent.com/93900628/153805598-20bfdfa6-eb5c-4f24-83cf-9c244a015402.png)
 
 Example:
 
