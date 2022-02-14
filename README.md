@@ -18,7 +18,8 @@ Example:
 
 1.) The end user typed in "ca" in the country filter field and pressed enter and all the sightings in Canada were returned.
 
-![Screen Shot 2022-02-13 at 10 53 34 PM](https://user-images.githubusercontent.com/93900628/153802300-c471a041-b9fa-4f3a-9a26-3906999fe746.png)
+![Screen Shot 2022-02-13 at 11 31 03 PM](https://user-images.githubusercontent.com/93900628/153805753-72acd785-5c8d-4535-8daf-02751b222de3.png)
+
 
 2.) These are the results for a filter search with multiple search criteria, i.e date,state,country and shape, the results returned were narrowed to meet what was queried.
 
