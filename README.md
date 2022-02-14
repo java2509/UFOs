@@ -24,6 +24,10 @@ These are the results for a filter search with multiple search criteria, i.e dat
 
 ![Screen Shot 2022-02-13 at 10 56 18 PM](https://user-images.githubusercontent.com/93900628/153802769-b0f1f351-2881-4d9e-b8ef-aa9b542a625a.png)
 
+One of the drawbacks with the filter search is that if the incorrect format or letter case is used no data will be returned, 
+
+![Screen Shot 2022-02-13 at 11 06 29 PM](https://user-images.githubusercontent.com/93900628/153803569-314ec5d9-7171-42ab-8fb1-e3b0f1bb479a.png)
+
 
 Summary:
 
