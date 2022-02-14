@@ -10,7 +10,7 @@ Use Javascript, HTML,Bootstrap and CSS to create a webpage with a dynamic table 
 
 Results:
 
-The web page loads with all the data displayed, users can filter through the data by inputing information into the filter fields, once the user presses enter it will narrow the results down.
+The web page loads with all the data displayed, users can filter through the data by inputing information into the filter fields, once the user presses enter/return or clicks on the page it will return results that were queried. Placeholders have been provided so that users have an example on how to enter information on the filter fields correctly.
 
 ![image](https://user-images.githubusercontent.com/93900628/153801548-3d0f8c89-f08e-4aad-b240-03a9cc7eb32b.png)
 
