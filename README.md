@@ -14,10 +14,10 @@ Results:
 Summary:
 - Drawback of this webpage:
 
-  1.) The filter fields will only populate data everything inputed is in the proper format AND only lower case for the city,state,country and shape fields are used.
+  1.) The filter fields will only populate data if everything inputed into each filter field is in the proper format AND only lower case for the city,state,country and shape filters are used.
 
 - Additional recommendations for further development:
 
-  1.) The option of a clear button so that the filter fields can be reset instead of having the user manually delete the data.
+  1.) The option of a clear button so that the filter field can be reset instead of having the user manually delete the data.
   2.) A dropdown option of data for each filter field, this would be very helpful for users who are not familiar with the data. 
   3.) The ability to retrieve data when you search in the filter boxes using Uppercase to capitialize the first letter of the city,state, country or shape fields.
