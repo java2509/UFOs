@@ -14,7 +14,7 @@ Results:
 Summary:
 - Drawback of this webpage:
 
-  1.) The filter fields will only populate data if you input everything in the proper format and use only lower case for the city,state,country and shape fields.
+  1.) The filter fields will only populate data everything inputed is in the proper format AND only lower case for the city,state,country and shape fields are used.
 
 - Additional recommendations for further development:
 
