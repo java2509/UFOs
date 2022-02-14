@@ -16,15 +16,15 @@ The web page loads with all the data displayed, users can filter through the dat
 
 Example:
 
-The end user typed in "ca" in the country filter field and pressed enter and all the sightings in Canada were returned.
+1.) The end user typed in "ca" in the country filter field and pressed enter and all the sightings in Canada were returned.
 
 ![Screen Shot 2022-02-13 at 10 53 34 PM](https://user-images.githubusercontent.com/93900628/153802300-c471a041-b9fa-4f3a-9a26-3906999fe746.png)
 
-These are the results for a filter search with multiple search criteria, i.e date,state,country and shape, the results returned were narrowed to meet what was queried.
+2.) These are the results for a filter search with multiple search criteria, i.e date,state,country and shape, the results returned were narrowed to meet what was queried.
 
 ![Screen Shot 2022-02-13 at 10 56 18 PM](https://user-images.githubusercontent.com/93900628/153802769-b0f1f351-2881-4d9e-b8ef-aa9b542a625a.png)
 
-One of the drawbacks with the filter search is that if the incorrect format or letter case is used no data will be returned,the incorrect date format and capitalizing the "S" and "D" in San Diego returns no data.
+3.) Results will not populate if incorrect date format or uppercase letters are used for the city,state,country and shape fields, below the incorrect date format and capitalizing the "S" and "D" in San Diego returns no data.
 
 ![Screen Shot 2022-02-13 at 11 06 29 PM](https://user-images.githubusercontent.com/93900628/153803569-314ec5d9-7171-42ab-8fb1-e3b0f1bb479a.png)
 
