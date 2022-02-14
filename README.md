@@ -6,6 +6,10 @@ Overview of the analysis:
 Purpose:
 Use Javascript, HTML,Bootstrap and CSS to create a webpage with a dynamic table to provide a more in depth analysis of UFO sightings by allowing users to filter multiple criteria such as date,city,state,country and shape.
 
+![Screen Shot 2022-02-13 at 10 39 31 PM](https://user-images.githubusercontent.com/93900628/153801296-59610b39-221c-4abc-a816-0dfa9959becf.png)
+![Screen Shot 2022-02-13 at 10 40 13 PM](https://user-images.githubusercontent.com/93900628/153801308-ba1b2f54-b2af-47cc-bfa5-a805264975cf.png)
+
+
 Results:
 
 
