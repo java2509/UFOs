@@ -14,7 +14,7 @@ The web page loads with all the data displayed, users can filter through the dat
 
 ![Screen Shot 2022-02-13 at 11 28 33 PM](https://user-images.githubusercontent.com/93900628/153805598-20bfdfa6-eb5c-4f24-83cf-9c244a015402.png)
 
-Example:
+#### Example:
 
 1.) The end user typed in "ca" in the country filter field and pressed enter and all the sightings in Canada were returned.
 
