@@ -11,14 +11,23 @@ Use Javascript, HTML,Bootstrap and CSS to create a webpage with a dynamic table 
 ![image](https://user-images.githubusercontent.com/93900628/153801548-3d0f8c89-f08e-4aad-b240-03a9cc7eb32b.png)
 
 
-
-
 Results:
 
+Users can filter through the data by inputing information into the filter fields, once the user presses enter it will narrow the results down.
 
+Example:
+
+The end user typed in "ca" in the country filter field and pressed enter and all the sightings in Canada were returned.
+
+![Screen Shot 2022-02-13 at 10 53 34 PM](https://user-images.githubusercontent.com/93900628/153802300-c471a041-b9fa-4f3a-9a26-3906999fe746.png)
+
+These are the results for a filter search with multiple search criteria, i.e date,state,country and shape, the results returned were narrowed to meet what was queried.
+
+![Screen Shot 2022-02-13 at 10 56 18 PM](https://user-images.githubusercontent.com/93900628/153802769-b0f1f351-2881-4d9e-b8ef-aa9b542a625a.png)
 
 
 Summary:
+
 - Drawback of this webpage:
 
   1.) The filter fields will only populate data if everything inputed into each filter field is in the proper format AND only lower case for the city,state,country and shape filters are used.
